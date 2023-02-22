@@ -16,4 +16,4 @@ Concluido ✔️
 
 # 🏆 Projeto Cordel
 
-Você pode visualizar o cordel atravez deste link <a href="https://kaiketorres.github.io/Projeto-Cordel/index.html/">Projeto Android</a>
+Você pode visualizar o cordel atravez deste link <a href="https://kaiketorres.github.io/Projeto-Cordel">Projeto Cordela>
