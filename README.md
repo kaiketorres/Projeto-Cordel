@@ -16,4 +16,4 @@ Concluido ✔️
 
 # 🏆 Projeto Cordel
 
-Você pode visualizar o cordel atravez deste link <a href="https://kaiketorres.github.io/Projeto-Cordel">Projeto Cordel
+Você pode visualizar o cordel atravez deste link <a target="_blank" href="https://kaiketorres.github.io/Projeto-Cordel">Projeto Cordel
